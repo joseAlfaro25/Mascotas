@@ -1,0 +1,28 @@
+[
+   {"id":1,
+      "nombre":"Clinica Madre Bernarda",
+      "latitude": 10.394088,
+      "longitud": -75.477342
+      
+   },
+   
+   {"id": 2,
+      "nombre":"Clínica Blas de Lezo S.A.",
+      "latitude":10.391824,
+      "longitud":-75.486837
+   },
+   
+   {"id": 4,
+      "nombre":"Urgencias Clínica Blas De Lezo",
+      "latitude":10.390354,
+      "longitud":-75.494724
+   },
+  
+   
+   
+   {"id": 3,
+      "nombre": "Sede Bocagrande",
+      "latitude": 10.394505,
+      "longitud": -75.558091
+   }
+]

@@ -1,0 +1,14 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 75vh;
+}
+.form {
+  width: 450px;
+}
+.card-header,
+.btn-custom {
+  background-color: #021e73 !important;
+  color: #ffffff !important;
+}
